@@ -1,6 +1,6 @@
 # nike_ecommerce
 
-A new Flutter project with clean architecture and bloc pattern.
+A new Flutter project with a clean repository and bloc pattern.
 
 ## Getting Started
 
